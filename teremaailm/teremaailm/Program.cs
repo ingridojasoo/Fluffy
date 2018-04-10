@@ -12,6 +12,7 @@ namespace teremaailm
         {
             Console.WriteLine("teremaailm");
             console.writeline("hallokosmos");
+            Console.WriteLine("hellofromgit");
         }
     }
 }
