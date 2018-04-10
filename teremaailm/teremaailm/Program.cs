@@ -11,6 +11,7 @@ namespace teremaailm
         static void Main(string[] args)
         {
             Console.WriteLine("teremaailm");
+            console.writeline("hallokosmos");
         }
     }
 }
